@@ -32,3 +32,5 @@ Tutorial basico git
 			c) git push origin master actualiza el repositorio remoto con el commit realizado (Solo sube los archivos a los cuales se les hizo add y commit)
 
 			d) Para hacer diferentes commit, hay que realizar los 3 pasos las veces que sean necesarias.
+
+IMPORTANTE: NUNCA JAMAS USAR "GIT MERGE"!!!
